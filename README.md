@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Lamoerey!
+# 👋 Hi, I'm Lamoerey, Solana Blockchain Developer
 
 ---
 ### 🚀 **Recent Projects**
